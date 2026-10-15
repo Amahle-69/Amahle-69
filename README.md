@@ -21,7 +21,8 @@ I'm committed to continuous learning, hands-on practice, and building practical 
 - **Diploma in Information Technology** — Vaal University of Technology
 - **Cyber Security Program** — ALX
 - **Introduction to Cybersecurity** — Cisco Networking Academy
-- **IT Customer Support Basics** — Cisco Networking Academy
+- **IT Essentials: PC Hardware and Software** — Cisco Networking Academy (July 2023)
+- **IT Customer Support Basics** — Cisco Networking Academy 
 - **Hardware and Upgrade Support** — Cisco Networking Academy
 - **Operating Systems Basics** — Cisco Networking Academy
 - **Professional Development Skills for the Digital Age** — ALX Professional Foundations
